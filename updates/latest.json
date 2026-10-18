@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "7.6",
- "key": "UPD-7.6-3CEV-R2WQ",
- "file": "UPD-7.6-3CEV-R2WQ.inu",
+ "version": "8.3",
+ "key": "UPD-8.3-MVZ2-QUVS",
+ "file": "UPD-8.3-MVZ2-QUVS.inu",
  "notes": "",
- "size": 419119,
- "sha256": "d88958ead0de7c1096cdce0fd9b8748ad4a1cc191993f8a1f03a442acfbb1a91",
- "date": "2026-10-15 16:25:21"
+ "size": 513048,
+ "sha256": "6573a852b23a9ce0b7e9f6105e783584155733edf3e6d7013e22b89a0b11f82d",
+ "date": "2026-10-18 22:42:47"
 }
