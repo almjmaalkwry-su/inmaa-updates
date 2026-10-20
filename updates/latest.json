@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "8.3",
- "key": "UPD-8.3-MVZ2-QUVS",
- "file": "UPD-8.3-MVZ2-QUVS.inu",
+ "version": "8.8",
+ "key": "UPD-8.8-23KG-56UG",
+ "file": "UPD-8.8-23KG-56UG.inu",
  "notes": "",
- "size": 513048,
- "sha256": "6573a852b23a9ce0b7e9f6105e783584155733edf3e6d7013e22b89a0b11f82d",
- "date": "2026-10-18 22:49:20"
+ "size": 575328,
+ "sha256": "d6d46efa8664b09a53b386f9de38c723253e9e464f449d749bc7dc0b2b37b627",
+ "date": "2026-10-20 22:44:20"
 }
