@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "8.8",
- "key": "UPD-8.8-23KG-56UG",
- "file": "UPD-8.8-23KG-56UG.inu",
+ "version": "8.9",
+ "key": "UPD-8.9-4CC6-XXJ2",
+ "file": "UPD-8.9-4CC6-XXJ2.inu",
  "notes": "",
- "size": 575328,
- "sha256": "d6d46efa8664b09a53b386f9de38c723253e9e464f449d749bc7dc0b2b37b627",
- "date": "2026-10-20 22:44:20"
+ "size": 754860,
+ "sha256": "e085ebdd3a65649a87da9bce5aea5f75eab182c8b241dd0fef381733cbeb7b67",
+ "date": "2026-10-22 09:45:08"
 }
