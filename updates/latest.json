@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "8.9",
- "key": "UPD-8.9-4CC6-XXJ2",
- "file": "UPD-8.9-4CC6-XXJ2.inu",
+ "version": "9.0",
+ "key": "UPD-9.0-MCR5-7WGC",
+ "file": "UPD-9.0-MCR5-7WGC.inu",
  "notes": "",
- "size": 754860,
- "sha256": "e085ebdd3a65649a87da9bce5aea5f75eab182c8b241dd0fef381733cbeb7b67",
- "date": "2026-10-22 09:45:08"
+ "size": 775076,
+ "sha256": "60a3dfd8c24b72aafe3dfdc2aeba1345a7058214dfc8b587146f22cc43dceaa4",
+ "date": "2026-10-22 20:55:51"
 }
