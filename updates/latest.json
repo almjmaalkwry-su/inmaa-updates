@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "9.0",
- "key": "UPD-9.0-MCR5-7WGC",
- "file": "UPD-9.0-MCR5-7WGC.inu",
- "notes": "",
- "size": 775076,
- "sha256": "60a3dfd8c24b72aafe3dfdc2aeba1345a7058214dfc8b587146f22cc43dceaa4",
- "date": "2026-10-22 21:55:44"
+ "version": "9.1",
+ "key": "UPD-9.1-6AT8-M4GQ",
+ "file": "UPD-9.1-6AT8-M4GQ.inu",
+ "notes": "ايقونات حديثة \n\n\nALI ABBAS",
+ "size": 775465,
+ "sha256": "f026e670d087388dfe4041b036c08499a8ff2c47239ae15482fd3627d74dc314",
+ "date": "2026-10-23 09:31:15"
 }
