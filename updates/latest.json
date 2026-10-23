@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "9.1",
- "key": "UPD-9.1-6AT8-M4GQ",
- "file": "UPD-9.1-6AT8-M4GQ.inu",
- "notes": "ايقونات حديثة \n\n\nALI ABBAS",
- "size": 775465,
- "sha256": "f026e670d087388dfe4041b036c08499a8ff2c47239ae15482fd3627d74dc314",
- "date": "2026-10-23 09:31:15"
+ "version": "9.2",
+ "key": "UPD-9.2-KB3Z-8Y8L",
+ "file": "UPD-9.2-KB3Z-8Y8L.inu",
+ "notes": "تحديث صادر بادارة علي الكناني",
+ "size": 780306,
+ "sha256": "50779761cb28f7dd1e5233ebd4d717d289ce3be58915a13ae513fa0f966a33df",
+ "date": "2026-10-23 13:04:51"
 }
