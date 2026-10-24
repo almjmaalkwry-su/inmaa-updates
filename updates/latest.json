@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "9.3",
- "key": "UPD-9.3-XT9A-8Y9Y",
- "file": "UPD-9.3-XT9A-8Y9Y.inu",
+ "version": "9.4",
+ "key": "UPD-9.4-XQL9-4QDE",
+ "file": "UPD-9.4-XQL9-4QDE.inu",
  "notes": "",
- "size": 787748,
- "sha256": "bcd0076118f299a9ad7ae885a119558d46959e5d0c0b751d8495196436e34942",
- "date": "2026-10-23 15:38:47"
+ "size": 821296,
+ "sha256": "bc168e406433efcf2b3a8fc41d04a9475116378f10d4265129a94aa4bdb5f661",
+ "date": "2026-10-24 08:01:51"
 }
