@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "9.4",
- "key": "UPD-9.4-XQL9-4QDE",
- "file": "UPD-9.4-XQL9-4QDE.inu",
+ "version": "9.9",
+ "key": "UPD-9.9-Q2TR-M52M",
+ "file": "UPD-9.9-Q2TR-M52M.inu",
  "notes": "",
- "size": 821296,
- "sha256": "bc168e406433efcf2b3a8fc41d04a9475116378f10d4265129a94aa4bdb5f661",
- "date": "2026-10-24 08:04:32"
+ "size": 861548,
+ "sha256": "86a716774c40cf71811c74f5e14117c6d3d6d65792911025f8ed4362aa44f8e0",
+ "date": "2026-10-25 15:20:12"
 }
