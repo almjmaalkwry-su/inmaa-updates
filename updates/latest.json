@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "11.0",
- "key": "UPD-11.0-UFHQ-QNK8",
- "file": "UPD-11.0-UFHQ-QNK8.inu",
+ "version": "11.1",
+ "key": "UPD-11.1-AKK5-DPRN",
+ "file": "UPD-11.1-AKK5-DPRN.inu",
  "notes": "",
- "size": 1103272,
- "sha256": "a14f08354e75f1e7052b78af089b043e39dd424105897ac615105774fd5b9cd0",
- "date": "2026-11-10 22:02:12"
+ "size": 1112316,
+ "sha256": "0295d1be2d0b8a30c962decc08c303c53d63d06503d039b00545edf4e3501da2",
+ "date": "2026-11-11 08:11:42"
 }
