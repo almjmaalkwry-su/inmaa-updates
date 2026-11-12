@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "11.1",
- "key": "UPD-11.1-AKK5-DPRN",
- "file": "UPD-11.1-AKK5-DPRN.inu",
+ "version": "11.9",
+ "key": "UPD-11.9-L52T-TMGZ",
+ "file": "UPD-11.9-L52T-TMGZ.inu",
  "notes": "",
- "size": 1112316,
- "sha256": "0295d1be2d0b8a30c962decc08c303c53d63d06503d039b00545edf4e3501da2",
- "date": "2026-11-11 08:11:42"
+ "size": 1133836,
+ "sha256": "5f7539b0d96b33c49c09d1238da1921f03f97c8f332dc16dbc3243aff88faaeb",
+ "date": "2026-11-12 12:12:14"
 }
