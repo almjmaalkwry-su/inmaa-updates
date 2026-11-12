@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "11.9",
- "key": "UPD-11.9-L52T-TMGZ",
- "file": "UPD-11.9-L52T-TMGZ.inu",
+ "version": "11.10",
+ "key": "UPD-11.10-QM88-C7A3",
+ "file": "UPD-11.10-QM88-C7A3.inu",
  "notes": "",
- "size": 1133836,
- "sha256": "5f7539b0d96b33c49c09d1238da1921f03f97c8f332dc16dbc3243aff88faaeb",
- "date": "2026-11-12 12:12:14"
+ "size": 1137189,
+ "sha256": "831ce17c1be19549575767c09b967932902ac7b536e20ed5051bfc654a7d053e",
+ "date": "2026-11-12 17:08:57"
 }
