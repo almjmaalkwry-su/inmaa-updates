@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "12.4",
- "key": "UPD-12.4-R5D5-QX7T",
- "file": "UPD-12.4-R5D5-QX7T.inu",
+ "version": "12.5",
+ "key": "UPD-12.5-AHD6-6U6G",
+ "file": "UPD-12.5-AHD6-6U6G.inu",
  "notes": "",
- "size": 1288924,
- "sha256": "8f47d85ff3ad3011f0db188f5b87a7a412526692b3046e3cae32fee57dffda22",
- "date": "2026-11-14 18:45:46"
+ "size": 1291512,
+ "sha256": "01c7ef53c6106edc8184337f66944a22dee4a263812e0a765645be0278713508",
+ "date": "2026-11-14 19:34:30"
 }
