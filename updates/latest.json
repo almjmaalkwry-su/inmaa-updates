@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "12.5",
- "key": "UPD-12.5-AHD6-6U6G",
- "file": "UPD-12.5-AHD6-6U6G.inu",
+ "version": "12.7",
+ "key": "UPD-12.7-8VBG-9CW7",
+ "file": "UPD-12.7-8VBG-9CW7.inu",
  "notes": "",
- "size": 1291512,
- "sha256": "01c7ef53c6106edc8184337f66944a22dee4a263812e0a765645be0278713508",
- "date": "2026-11-14 19:41:42"
+ "size": 1315220,
+ "sha256": "7542640adf5e9f7d1b58085fc696c50a60d20742774ea41ff26b3fa27a332d1e",
+ "date": "2026-11-15 11:41:02"
 }
