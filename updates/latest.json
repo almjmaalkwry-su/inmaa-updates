@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "12.7",
- "key": "UPD-12.7-8VBG-9CW7",
- "file": "UPD-12.7-8VBG-9CW7.inu",
+ "version": "12.9",
+ "key": "UPD-12.9-TVXA-69X8",
+ "file": "UPD-12.9-TVXA-69X8.inu",
  "notes": "",
- "size": 1315220,
- "sha256": "7542640adf5e9f7d1b58085fc696c50a60d20742774ea41ff26b3fa27a332d1e",
- "date": "2026-11-15 11:45:06"
+ "size": 1333040,
+ "sha256": "9d6e0f22ee7f9e73a738fe6a104b2a97c419a326bef3d62639ffa2db2004279e",
+ "date": "2026-11-17 22:37:06"
 }
