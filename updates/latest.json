@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "12.9",
- "key": "UPD-12.9-TVXA-69X8",
- "file": "UPD-12.9-TVXA-69X8.inu",
+ "version": "13.0",
+ "key": "UPD-13.0-W3WG-XMMW",
+ "file": "UPD-13.0-W3WG-XMMW.inu",
  "notes": "",
- "size": 1333040,
- "sha256": "9d6e0f22ee7f9e73a738fe6a104b2a97c419a326bef3d62639ffa2db2004279e",
- "date": "2026-11-17 22:38:19"
+ "size": 1351364,
+ "sha256": "b6ec6bb19621de97505537bad993fc3b2b1985bc4ef8aefb02cb6abcc4d7a8a1",
+ "date": "2026-11-18 08:01:24"
 }
