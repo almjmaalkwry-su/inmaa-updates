@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "13.3",
- "key": "UPD-13.3-6VRD-35MH",
- "file": "UPD-13.3-6VRD-35MH.inu",
+ "version": "13.4",
+ "key": "UPD-13.4-MGKK-BRWZ",
+ "file": "UPD-13.4-MGKK-BRWZ.inu",
  "notes": "",
- "size": 1389168,
- "sha256": "f5623df5878ea307912e81ff893b59a0398bb520767e3855f81f5ba20a890382",
- "date": "2026-11-19 08:25:08"
+ "size": 1392484,
+ "sha256": "6194a0c6d940542f6ce6f2f68c8a98d06330e715eff766e31794f276e79fbbdc",
+ "date": "2026-11-19 11:42:59"
 }
