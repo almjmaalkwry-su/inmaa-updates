@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "13.0",
- "key": "UPD-13.0-W3WG-XMMW",
- "file": "UPD-13.0-W3WG-XMMW.inu",
+ "version": "13.3",
+ "key": "UPD-13.3-6VRD-35MH",
+ "file": "UPD-13.3-6VRD-35MH.inu",
  "notes": "",
- "size": 1351364,
- "sha256": "b6ec6bb19621de97505537bad993fc3b2b1985bc4ef8aefb02cb6abcc4d7a8a1",
- "date": "2026-11-18 08:01:24"
+ "size": 1389168,
+ "sha256": "f5623df5878ea307912e81ff893b59a0398bb520767e3855f81f5ba20a890382",
+ "date": "2026-11-19 08:25:08"
 }
