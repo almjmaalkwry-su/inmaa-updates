@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "13.4",
- "key": "UPD-13.4-MGKK-BRWZ",
- "file": "UPD-13.4-MGKK-BRWZ.inu",
+ "version": "13.5",
+ "key": "UPD-13.5-N6H3-5RZV",
+ "file": "UPD-13.5-N6H3-5RZV.inu",
  "notes": "",
- "size": 1392484,
- "sha256": "6194a0c6d940542f6ce6f2f68c8a98d06330e715eff766e31794f276e79fbbdc",
- "date": "2026-11-19 11:42:59"
+ "size": 1401500,
+ "sha256": "6f8fbec735bbf649d5607f6b253f5f1e4e8078925fd6204622e6384b2d11a2d3",
+ "date": "2026-11-23 20:13:09"
 }
