@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "13.5",
- "key": "UPD-13.5-N6H3-5RZV",
- "file": "UPD-13.5-N6H3-5RZV.inu",
+ "version": "13.6",
+ "key": "UPD-13.6-JZNE-JV36",
+ "file": "UPD-13.6-JZNE-JV36.inu",
  "notes": "",
- "size": 1401500,
- "sha256": "6f8fbec735bbf649d5607f6b253f5f1e4e8078925fd6204622e6384b2d11a2d3",
- "date": "2026-11-25 18:26:07"
+ "size": 1441628,
+ "sha256": "4e5a44d77e74d4a2c3a00f7fd530fe81d925ee9e1e392a384883ab5160a87866",
+ "date": "2026-11-25 18:38:26"
 }
