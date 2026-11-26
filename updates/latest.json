@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "13.7",
- "key": "UPD-13.7-PSDB-XMH5",
- "file": "UPD-13.7-PSDB-XMH5.inu",
- "notes": "knani AI",
- "size": 1516988,
- "sha256": "7c861bb0fd41c20be1b0a75deb703933ccccfc4ab40d4bc3151b36fbf9269276",
- "date": "2026-11-26 11:20:54"
+ "version": "13.8",
+ "key": "UPD-13.8-62QG-V4BL",
+ "file": "UPD-13.8-62QG-V4BL.inu",
+ "notes": "",
+ "size": 1599420,
+ "sha256": "f6a06af02b6f6d220889fb5594fe31f8b0ddd2cb0047ae4b81ce59f547df1782",
+ "date": "2026-11-26 15:23:37"
 }
