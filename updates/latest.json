@@ -1,10 +1,10 @@
 {
  "product": "sales",
- "version": "13.6",
- "key": "UPD-13.6-JZNE-JV36",
- "file": "UPD-13.6-JZNE-JV36.inu",
- "notes": "",
- "size": 1441628,
- "sha256": "4e5a44d77e74d4a2c3a00f7fd530fe81d925ee9e1e392a384883ab5160a87866",
- "date": "2026-11-25 18:38:26"
+ "version": "13.7",
+ "key": "UPD-13.7-PSDB-XMH5",
+ "file": "UPD-13.7-PSDB-XMH5.inu",
+ "notes": "knani AI",
+ "size": 1516988,
+ "sha256": "7c861bb0fd41c20be1b0a75deb703933ccccfc4ab40d4bc3151b36fbf9269276",
+ "date": "2026-11-26 11:20:54"
 }
